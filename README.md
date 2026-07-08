@@ -1,10 +1,7 @@
 Morning! I'm Silas
 ===================================================================================================================================
 
-I study Music Technology at NYU. By proxy, I am interested in Computer 
-Science & Electrical Engineering. I am actively learning about Digital Signal
-Processing, Electronnics & Embedded Systems, as well as Machine Learning and
-Music Information Retrieval. 
+I study Music Technology, Computer Science, and Electrical Engineering at NYU. 
 
 *   🖥️  [portfolio](http://sialboat.github.io)
 *   ✉️  You can contact me at sw5983 (a † ) nyu edu
